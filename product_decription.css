@@ -6,7 +6,7 @@ h1{
 }
 
 img{
-    border: solid;
+    border: 2px solid blue;
     display: block;
     margin: auto;
 }
@@ -21,4 +21,5 @@ table, th, td {
 
 button{
     margin-top: 10px;
+    margin-bottom: 100px;
   }
